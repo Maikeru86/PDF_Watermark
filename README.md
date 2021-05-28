@@ -1,5 +1,5 @@
 # PDF_Watermark
-#Simple program to add watermark diagonally across pdf pages.
+Simple program to add watermark diagonally across pdf pages.
 uses Pdf Sharp library from empira software: https://github.com/empira/PDFsharp
 
 Setup and usage:
