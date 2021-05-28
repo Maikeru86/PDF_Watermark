@@ -1,5 +1,5 @@
 # PDF_Watermark
-Simple program to add watermark diagonally across pdf pages.
+Simple program to add a semi transparent red watermark diagonally across pdf pages.
 uses Pdf Sharp library from empira software: https://github.com/empira/PDFsharp
 
 Setup and usage:
@@ -9,6 +9,7 @@ Setup and usage:
 4. Add some watermark text and click the "Watermark" button.
 5. If the file is password protected, check the "Password" checkbox and fill in the password in the adjacent textbox.
 6. If you want to password protect the file, check the "Password" checkbox and fill in the password in the adjacent textbox.
+7. It moves the original file to a folder within the current folder called "PDF_Watermark_backup"
 
 NOTE:
 Your antivirus will scan the file before letting it run. Let it finish then continue.
